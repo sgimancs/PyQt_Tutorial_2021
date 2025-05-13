@@ -1,0 +1,12 @@
+======================================================================================
+The Qt Company (ранее известна как Qt Software, Trolltech и Quasar Technologies) — 
+компания по производству программного обеспечения, базируется в Осло, Норвегия. 
+Компания предоставляет платформы для разработки программ и фреймворки, 
+а также предлагает консультационные услуги.
+======================================================================================
+
+Examples (PyQt6 + PySide6):
+A collection of examples are provided with Qt for Python to help new users to understand different use cases of the module.
+
+https://doc.qt.io/qtforpython-6/examples/index.html
+

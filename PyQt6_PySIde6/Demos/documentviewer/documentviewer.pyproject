@@ -1,0 +1,15 @@
+{
+    "files": ["abstractviewer.py",
+              "documentviewer.qrc",
+              "main.py",
+              "mainwindow.py",
+              "mainwindow.ui",
+              "imageviewer/imageviewer.py",
+              "jsonviewer/jsonviewer.py",
+              "pdfviewer/pdfviewer.py",
+              "pdfviewer/zoomselector.py",
+              "txtviewer/txtviewer.py",
+              "recentfilemenu.py",
+              "recentfiles.py",
+              "viewerfactory.py"]
+}
