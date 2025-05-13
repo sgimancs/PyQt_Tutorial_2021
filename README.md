@@ -8,7 +8,9 @@ Python Qt5 tutorial and PySIde6 Examples (Step of Code, 2021)
 
 
 001 Введение
+
 002 ВАЖНО! ЧАВО - ЧАсто задаваемые ВОпросы
+
 003 Обзор курса
 
 004 Python - краткий обзор
