@@ -2,15 +2,13 @@
 Python Qt5 tutorial and PySIde6 Examples (Step of Code, 2021)
 
 ## Python 3 - разработка GUI на PyQt5 | 
-## Python 3 Уроки Для Начинающих [2021, RUS]
+## Python 3 PySIde6 Examples
 
 ![01b36ac32428464f1ed8b62b05470669](https://github.com/user-attachments/assets/992dde84-a876-416c-bef9-9d88fa311f66)
 
 
 001 Введение
-
 002 ВАЖНО! ЧАВО - ЧАсто задаваемые ВОпросы
-
 003 Обзор курса
 
 004 Python - краткий обзор
